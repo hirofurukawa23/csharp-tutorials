@@ -1,0 +1,7 @@
+C:\Users\info\Desktop\dev-middle\App17\App17\bin\Debug\App17.exe.config
+C:\Users\info\Desktop\dev-middle\App17\App17\bin\Debug\App17.exe
+C:\Users\info\Desktop\dev-middle\App17\App17\bin\Debug\App17.pdb
+C:\Users\info\Desktop\dev-middle\App17\App17\obj\Debug\App17.csprojAssemblyReference.cache
+C:\Users\info\Desktop\dev-middle\App17\App17\obj\Debug\App17.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\dev-middle\App17\App17\obj\Debug\App17.exe
+C:\Users\info\Desktop\dev-middle\App17\App17\obj\Debug\App17.pdb

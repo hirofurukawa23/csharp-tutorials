@@ -1,0 +1,6 @@
+C:\Users\info\Desktop\dev-middle\App18\App18\bin\Debug\App18.exe.config
+C:\Users\info\Desktop\dev-middle\App18\App18\bin\Debug\App18.exe
+C:\Users\info\Desktop\dev-middle\App18\App18\bin\Debug\App18.pdb
+C:\Users\info\Desktop\dev-middle\App18\App18\obj\Debug\App18.csproj.CoreCompileInputs.cache
+C:\Users\info\Desktop\dev-middle\App18\App18\obj\Debug\App18.exe
+C:\Users\info\Desktop\dev-middle\App18\App18\obj\Debug\App18.pdb
