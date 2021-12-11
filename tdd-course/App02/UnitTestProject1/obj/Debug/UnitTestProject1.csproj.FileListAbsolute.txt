@@ -1,0 +1,17 @@
+D:\tutorials\tdd-course\App02\UnitTestProject1\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\tutorials\tdd-course\App02\UnitTestProject1\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\tutorials\tdd-course\App02\UnitTestProject1\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\tutorials\tdd-course\App02\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\tutorials\tdd-course\App02\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\tutorials\tdd-course\App02\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\tutorials\tdd-course\App02\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\tutorials\tdd-course\App02\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\tutorials\tdd-course\App02\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\tutorials\tdd-course\App02\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\tutorials\tdd-course\App02\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\tutorials\tdd-course\App02\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\tutorials\tdd-course\App02\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\tutorials\tdd-course\App02\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\tutorials\tdd-course\App02\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\tutorials\tdd-course\App02\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\tutorials\tdd-course\App02\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
