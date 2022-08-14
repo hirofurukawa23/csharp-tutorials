@@ -1,7 +1,7 @@
 ![basic-cs-course-feature](./img/basic-cs-course-feature.png)
 
 # 未経験から始めるC#入門
-C#をまったくの未経験から学習する講座で作成したサンプルソースをダウンロードできるレポジトリになります。連載元のウェブページは「[未経験から始めるC#入門](https://hirofurukawa.com/category/cs/cd-first-step/)」になります。
+C#をまったくの未経験から学習する講座で作成したサンプルソースをダウンロードできるレポジトリです。C#についてまとめたウェブサイト「[C# BASE](https://csharp-base.hirofurukawa.com/)」で連載した「[C# 初級コース【入門レベル】](https://csharp-base.hirofurukawa.com/intro-level/)」でのソースコードを掲載しています。
 
 「プログラミング学習を始めたいけれど、なにから始めてよいか分からない」
 
@@ -80,4 +80,4 @@ GitHubページから右上の「Code」ボタンを探してください。
 あとはこれまで通り「開始」ボタンからプログラムを実行することができます。
 
 ## 提供元
-[HIRO OFFICIAL BLOG](https://github.com/hirofurukawa23/basic-cs-course) - [未経験から始めるC#入門](https://hirofurukawa.com/category/cs/cd-first-step/)
+[C# BASE](https://csharp-base.hirofurukawa.com/) - [C# 初級コース【入門レベル】](https://csharp-base.hirofurukawa.com/intro-level/)
